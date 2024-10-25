@@ -1,0 +1,16 @@
+{
+    "name": "dsw/rating",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dsw\\Rating\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ferrokwastaken",
+            "email": "israelduquesilva@hotmail.com"
+        }
+    ],
+    "require": {}
+}

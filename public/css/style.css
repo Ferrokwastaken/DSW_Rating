@@ -1,0 +1,55 @@
+button {
+  width: 200px;
+  height: 200px;
+  background: url('../img/emoji_satisfaction_meter.jpg');
+  background-position-x: -18px;
+  background-position-y: -163px;
+  border: 0;
+}
+
+html {
+  height: 100vh;
+}
+
+.container {
+  margin: auto;
+}
+
+h1 {
+  color: purple;
+  font-size: 5rem;
+  margin-top: 0;
+}
+
+body {
+  text-align: center;
+  align-content: center;
+  margin: 0;
+  height: 100%;
+}
+
+.button1 {
+  background-position-x: -18px;
+}
+
+.button2 {
+  background-position-x: -209px;
+}
+
+.button3 {
+  background-position-x: -400px;
+}
+
+.button4 {
+  background-position-x: -595px;
+}
+
+.button5 {
+  background-position-x: -786px;
+}
+
+.error {
+  color: red;
+  font-size: 5rem;
+  margin-top: 0;
+}
