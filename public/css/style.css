@@ -28,6 +28,23 @@ body {
   height: 100%;
 }
 
+table {
+  border-collapse: collapse;
+  margin: 0px auto;
+}
+
+td , th {
+  border: 1px solid indigo;
+  padding: 4px 10px;
+  text-align: right;
+}
+
+th {
+  background-color: indigo;
+  color: white;
+  text-align: center;
+}
+
 .button1 {
   background-position-x: -18px;
 }
